@@ -3,3 +3,6 @@ class Hello{
 		system.out.println("hello");
 	}
 }
+1
+2
+3
